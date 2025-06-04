@@ -1,0 +1,5 @@
+import Cocoa
+
+let celsius: Double = 25
+let fahrenheit = (celsius * 9) / 5 + 32
+print("Temperature in Celsius is \(celsius)°C and it's \(fahrenheit)°F in Fahrenheit.")
